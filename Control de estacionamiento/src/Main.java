@@ -34,7 +34,13 @@ public class Main {
         System.out.printf("Total de dinero recaudado: ", totalRecaudado);
         System.out.println("Automóviles que recibieron descuento: " + autosConDescuento);
 
-        double promedio = (totalAutos > 0) ? (totalRecaudado / totalAutos) : 0.0;
+        double promedio;
+
+        if (totalAutos > 0) {
+            promedio = totalRecaudado / totalAutos;
+        } else {
+            promedio = 0.0;
+        }
         System.out.printf("Promedio pagado por automóvil:"+promedio);
     }
 }
