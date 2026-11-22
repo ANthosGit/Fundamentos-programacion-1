@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13b7850f-5175-480d-8d4d-76fc260f0077" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../examen-u2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen-u2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen-u2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen-u2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen-u2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen-u2/examen-u2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen-u2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RentaBici" beforeDir="false" afterPath="$PROJECT_DIR$/../RentaBici" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ANthosGit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ANThosGit/Fundamentos-programacion-1.git&quot;,
+    &quot;accountId&quot;: &quot;a23fff29-798e-42a7-8e55-54b97427d4c3&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000002549971" />
+      <entry key="MS500" value="1.020969686637459" />
+      <entry key="S2" value="1.6399486590633496" />
+      <entry key="S5" value="2.267868045381266" />
+      <entry key="S10" value="2.5930522343946247" />
+      <entry key="S30" value="3.1326727102771144" />
+      <entry key="S60" value="4.366451621160288" />
+      <entry key="M2" value="7.018589220682248" />
+      <entry key="M5" value="14.296104912814549" />
+      <entry key="M10" value="25.12391943794267" />
+      <entry key="M15" value="34.04926178552778" />
+      <entry key="M30" value="50.662568325764276" />
+      <entry key="H1" value="64.33603641127415" />
+      <entry key="H2" value="73.26024644190191" />
+      <entry key="H4" value="78.37943456439201" />
+      <entry key="D1" value="83.02619353291443" />
+      <entry key="W1" value="83.85994695020001" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.5875728902640804E-72" />
+      <entry key="S2" value="1.1224924240823904E-18" />
+      <entry key="S5" value="6.608050715047968E-8" />
+      <entry key="S10" value="2.5706181794406046E-4" />
+      <entry key="S30" value="0.06534677221237085" />
+      <entry key="S60" value="0.3636846689026487" />
+      <entry key="M2" value="1.6069534273040003" />
+      <entry key="M5" value="6.875840678748503" />
+      <entry key="M10" value="14.573205348862551" />
+      <entry key="M15" value="20.390618506337628" />
+      <entry key="M30" value="30.595321688323104" />
+      <entry key="H1" value="38.67027233204376" />
+      <entry key="H2" value="43.84489241605722" />
+      <entry key="H4" value="46.78746133723989" />
+      <entry key="D1" value="49.444665141405565" />
+      <entry key="W1" value="49.92016283794012" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.916720348936628E-5" />
+      <entry key="MS500" value="0.1496979857029349" />
+      <entry key="S2" value="1.219514175059982" />
+      <entry key="S5" value="2.0659813518810832" />
+      <entry key="S10" value="2.4852190305933175" />
+      <entry key="S30" value="3.149481691939901" />
+      <entry key="S60" value="4.684367480225821" />
+      <entry key="M2" value="8.577907733264468" />
+      <entry key="M5" value="21.122632784875098" />
+      <entry key="M10" value="39.65124287206167" />
+      <entry key="M15" value="54.39852140554939" />
+      <entry key="M30" value="81.22771171263503" />
+      <entry key="H1" value="102.98744972508575" />
+      <entry key="H2" value="117.09450005099741" />
+      <entry key="H4" value="125.16123250568968" />
+      <entry key="D1" value="132.46986299062974" />
+      <entry key="W1" value="133.77996622365814" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Ly3aRkHuAgXgOtAD70iSDhOkwC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Merging main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/antonio/Desktop/practicas java/examen prueba/src/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b7850f-5175-480d-8d4d-76fc260f0077" name="Changes" comment="" />
+      <created>1794412546272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794412546272</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
